@@ -28,7 +28,7 @@ from aiogram.types import (
 # ==============================================================================
 # 1. BOT CONFIGURATION & CONSTANTS
 # ==============================================================================
-BOT_TOKEN = os.getenv("8932735545:AAGugF509mlmORIqDuwbfEbRuVfsuy0NPSM", "").strip()
+BOT_TOKEN = os.getenv("8932735545:AAE0o9-Yrjep5EWH4E8HsAUYgzC-c8ekNoI", "").strip()
 BOT_USERNAME = "@RoniModMenuBot"
 ADMIN_ID = int(os.getenv("ADMIN_ID", "7191428925"))
 ADMIN_CONTACT = "@RoniModMenu"
